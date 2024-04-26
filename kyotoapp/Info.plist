@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>現在地からの距離に基づいて観光地を推薦するために位置情報を使用します。</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>常に更新しておきたい</string>
+</dict>
+</plist>
